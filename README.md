@@ -1,3 +1,4 @@
+
 ---
 
 ### 🚀 Getting Started with **Gaming-Site**
@@ -21,20 +22,6 @@ To get started with the **Gaming-Site** project, follow these steps:
    ```bash
    sudo python3 main.py
    ```
-
----
-
-### 🎮 Example of Color in Terminal Output (Optional)
-
-If you want to add color to terminal messages in your code, here's an example using ANSI escape codes for colored text:
-
-```python
-# Example Python script to print colored text
-print("\033[1;32mWelcome to Gaming-Site!\033[0m")  # Green text
-```
-
-- `\033[1;32m` makes the text **green**.
-- `\033[0m` resets the color back to normal.
 
 ---
 

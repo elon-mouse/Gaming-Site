@@ -17,7 +17,7 @@ To get started with the **Gaming-Site** project, follow these steps:
    cd Gaming-Site
    ```
 
-3. **Run the Game**  
+3. **Run the Server**  
    To start the game, run the `main.py` file:
    ```bash
    sudo python3 main.py
